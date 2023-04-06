@@ -4,6 +4,12 @@
     background-color: red;
     float: left;
     margin: 20px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: green;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
   }
   
 .second-box-container {
@@ -12,6 +18,12 @@
     background-color: yellow;
     float: left;
     margin: 20px;
+    text-transform: uppercase;
+    border-style: solid;
+    border-width: 15px;
+    color: blue;
+    text-align: center;
+    border-color: red;
   }
   
 .third-box-container {
@@ -20,4 +32,10 @@
     background-color: green;
     float: left;
     margin: 20px;
+    text-transform: uppercase;
+    border-style: solid;
+    border-width: 15px;
+    color: blue;
+    text-align: center;
+    border-color: yellow;
   }
