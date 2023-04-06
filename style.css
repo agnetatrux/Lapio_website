@@ -1,18 +1,23 @@
 * {
-    color: orangered; 
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    background: beige;
 }
 
 body {
-    background-color: whitesmoke; 
+    margin: 0 auto;
+    max-width: 50em;
+    color: #222;
+    line-height: 1.5;
+    padding: 4em 1em;
 }
-h1   {
-    color: blue; 
+
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: black;
 }
 
 li {
-    color: pink;
-}
-
-a {
-    color: red;
+    margin-top: 0.5em;
+    color: black;
 }
